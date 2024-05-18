@@ -1,0 +1,8 @@
+Features of the shell:
+
+Basic shell commands (cd, pwd, help, ls, cat, grep, rm, wc...)
+File I/O redirection
+Pipelines
+Signal management for Ctrl+C
+Process management
+
